@@ -20,6 +20,17 @@ body {
 }
 
 
+/* added from css branch */
+.clear-this{
+	clear: both;
+}
+
+/* added from master branch */
+.clear-me{
+	clear: both;
+}
+
+
 /* =Headings
 -------------------------------------------------------------- */
 
