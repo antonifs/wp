@@ -1,2 +1,6 @@
 Blah
+<<<<<<< HEAD
 from master
+=======
+dari css
+>>>>>>> css
